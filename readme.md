@@ -8,7 +8,7 @@ This repository is a **proof-of-concept** demonstrating what things would be lik
 1. [Patient Languages](specs/_vdw_language.md)
 1. [Enrollment](specs/_vdw_enroll.md)
 1. [Encounter](specs/_vdw_utilization.md)
-1. Diagnosis
+1. [Diagnosis](specs/_vdw_dx.md)
 1. Procedure
 1. Provider
 1. Facility
