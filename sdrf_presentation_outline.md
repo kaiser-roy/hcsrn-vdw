@@ -104,12 +104,29 @@ Markdown is one of those technologies whose simplicity and openness has caused p
 
 ## The Demo
 
-Create new repo virtual_data_warehouse under @kaiser-roy
+[Create new repo virtual_data_warehouse under @kaiser-roy](https://github.com/kaiser-roy/hcsrn-vdw)
 Include only the md's--not the built HTML versions (add \*.html to .gitignore)
 Replay some of the edits made to the specs
 
 Show:
-   navigation from spec to spec
+   main readme--finished product
+      with links to the specs
+      and the ER diagram
+   history (commits)
+      [esp this one](https://github.com/kaiser-roy/hcsrn-vdw/commit/be501f8486fcfd6bf6e43df589789492edd2112e?diff=split)
+      note that you can browse the repository at any prior commit, to see what things *used* to say
+
+   now show what the raw readme looks like.
+   Add a paragraph:
+
+      Note that authorized people can do quite a lot right through the browser, without ever needing to touch `git`.  People not authorized to edit can just read.
+
+   Note that this change becomes its own commit--see that it is added to the list of commits.
+
+   Now let's switch to Al and see how not-explicitly-authorized people can still contribute...
+
+   repo owner (@kaiser-roy)
+
 
 
 
