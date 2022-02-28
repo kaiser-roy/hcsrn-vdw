@@ -46,3 +46,4 @@ data lang_iso (keep = iso639_2 name iso_name);
 run;
 
 ```
+Only include known language, do not add rows to this table for people for whom you do not know their language. Adding unknown values is unnecessary.
