@@ -125,6 +125,8 @@ Show:
 
    Now let's switch to Al and see how not-explicitly-authorized people can still contribute...
 
+   Note github tells you it's forking the repo
+
    repo owner (@kaiser-roy)
 
 
