@@ -1,6 +1,10 @@
 # Script for pre-filmed specs-on-github demonstration
 
-> set resolution to 1920 x 1080, for humane-looking video
+prep for recording videos:
+
+- set resolution to 1920 x 1080, for humane-looking video
+- remove `Variable Labels` heading from enrollment spec
+- reinstate the 'play' typos
 
 @kaiser-roy loads [the hcsrn-vdw repo](https://github.com/kaiser-roy/hcsrn-vdw) in chrome.
 

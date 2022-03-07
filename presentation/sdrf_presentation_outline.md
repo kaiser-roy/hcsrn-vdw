@@ -1,5 +1,9 @@
 # Github and the HCSRN
 
+or
+
+# GitHub For Collaboratively Managing VDW Intellectual Property: A Proposal
+
 ## Synopsis
 
 The HCSRN’s VDW Implementation Group has gone through several evolutions for managing its main intellectual property—namely, our data specifications and associated implementation guidelines. In this presentation Roy and Al will describe a possible next step in that evolution: moving it to GitHub.  We will describe what GitHub is, what makes it a good fit for the VIG, give a short primer on its use, and demonstrate what using it for our specifications might look like.
